@@ -1,7 +1,7 @@
 # Puppet Module for zram_generator
 
-[![Build Status](https://github.com/voxpupuli/puppet-zram_generator/workflows/CI/badge.svg)](https://github.com/voxpupuli/puppet-zram_generator/actions?query=workflow%3ACI)
-[![Release](https://github.com/voxpupuli/puppet-zram_generator/actions/workflows/release.yml/badge.svg)](https://github.com/voxpupuli/puppet-zram_generator/actions/workflows/release.yml)
+[![Build Status](https://github.com/Unity-Billal-mesloub/puppet-zram_generator/workflows/CI/badge.svg)](https://github.com/Unity-Billal-mesloub/puppet-zram_generator/actions?query=workflow%3ACI)
+[![Release](https://github.com/Unity-Billal-mesloub/puppet-zram_generator/actions/workflows/release.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/puppet-zram_generator/actions/workflows/release.yml)
 [![Puppet Forge Version](http://img.shields.io/puppetforge/v/puppet/zram_generator.svg)](https://forge.puppetlabs.com/puppet/zram_generator)
 [![Puppet Forge Downloads](http://img.shields.io/puppetforge/dt/puppet/zram_generator.svg)](https://forge.puppetlabs.com/puppet/zram_generator)
 [![Puppet Forge Endorsement](https://img.shields.io/puppetforge/e/puppet/zram_generator.svg)](https://forge.puppetlabs.com/puppet/zram_generator)
@@ -10,7 +10,7 @@
 [![Donated by CERN](https://img.shields.io/badge/donated%20by-CERN-0033a0.svg)](#transfer-notice)
 
 ## Description
-Installs and configures [zram_generator](https://github.com/systemd/zram-generator)
+Installs and configures [zram_generator](https://github.com/Unity-Billal-mesloub/zram-generator)
 
 ## Example
 
